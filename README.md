@@ -1,4 +1,3 @@
-# benfordlaw_excel_go
 # Random program that uses the go excelize library.
 
 # What is it? How it works?
