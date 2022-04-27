@@ -4,7 +4,7 @@
 This program is just a benford's law calculator that uses an Excel Workbook as its number dumpster.
 Place all you numbers in an excel file. Doesn't matter where numbers are placed in the cells as long as each number gets its own cell.
 
-Run the program, it reads the excel file. Calculates a benfords table and outputs a new excel file with the results on a new sheet within the workbook.
+Run the program, select an excel file with data, it reads the excel file, then it calculates a benfords table and outputs the results into a new excel file with the results on a new sheet within the workbook.
 
 !! This is a random side project. Wouldn't recommend using it on real data since the program is prone to bugs.
 
