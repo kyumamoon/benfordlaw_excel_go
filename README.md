@@ -1,4 +1,4 @@
-# Random program that uses the go excelize library.
+# Random program that uses the go excelize library and fyne as the GUI
 
 # What is it? How it works?
 This program is just a benford's law calculator that uses Excel as its number dumpster.
