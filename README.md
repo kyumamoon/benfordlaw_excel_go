@@ -10,3 +10,6 @@ Run the program, it reads the excel file. Calculates a benfords table and output
 
 # To Do:
 - Have a choice in which format to output the results. Currently outputs only as an xlsx file.
+
+# GUI
+![image](https://user-images.githubusercontent.com/93850550/165642192-7971f879-4109-4066-b4f5-1ea98bcd8aa2.png)
