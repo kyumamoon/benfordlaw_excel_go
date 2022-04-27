@@ -1,7 +1,7 @@
 # Random program that performs benfords law analysis using the go excelize library and fyne as the GUI
 
 # What is it? How it works?
-This program is just a benford's law calculator that uses Excel as its number dumpster.
+This program is just a benford's law calculator that uses an Excel Workbook as its number dumpster.
 Place all you numbers in an excel file. Doesn't matter where numbers are placed in the cells as long as each number gets its own cell.
 
 Run the program, it reads the excel file. Calculates a benfords table and outputs a new excel file with the results on a new sheet within the workbook.
