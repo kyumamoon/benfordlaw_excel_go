@@ -7,6 +7,7 @@ Place all you numbers in an excel file. Doesn't matter where numbers are placed 
 Run the program, select an excel file with data, it reads the excel file, then it calculates a benfords table and outputs the results into a new excel file with the results on a new sheet within the workbook.
 
 !! This is a experiment/educational side project. Wouldn't recommend using it on real data since the program is prone to bugs.
+!! The program code needs to be compiled first before use.
 
 # To Do:
 - Have a choice in which format to output the results. Currently outputs only as an xlsx file.
