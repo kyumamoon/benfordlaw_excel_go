@@ -6,11 +6,13 @@ Place all you numbers in an excel file. Doesn't matter where numbers are placed 
 
 Run the program, select an excel file with data, it reads the excel file, then it calculates a benfords table and outputs the results into a new excel file with the results on a new sheet within the workbook.
 
-!! This is a experiment/educational side project. Wouldn't recommend using it on real data since the program is prone to bugs.
+!! This is a experiment/educational side project. Wouldn't recommend using it on real data since the program is prone to bugs. Tested on some small datasets which works.
+
 !! The program code needs to be compiled first before use.
 
 # To Do:
 - Have a choice in which format to output the results. Currently outputs only as an xlsx file.
+- Fine tweak it.
 
 # GUI
 ![image](https://user-images.githubusercontent.com/93850550/165642192-7971f879-4109-4066-b4f5-1ea98bcd8aa2.png)
